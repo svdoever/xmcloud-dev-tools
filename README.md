@@ -5,7 +5,7 @@ Welcome to a collection of scripts I developed to optimize the utilization the e
 In our company subscription to XM Cloud we have two projects, and each project has 3 environments: 2 non-production, and one production environment.
 For development and research we want to be able to use each environment separately. These scripts make this possible, without giving users direct access to XM Cloud deploy.
 
-This code is a further evoluation of the scripts I developed for the blog post [XM Cloud build and deploy like a pro](https://www.sergevandenoever.nl/XM_Cloud_build_and_deploy_like_a_pro/). Read the blogpost for the underlying ideas for the scripts.
+This code is a further evolution of the scripts I developed for the blog post [XM Cloud build and deploy like a pro](https://www.sergevandenoever.nl/XM_Cloud_build_and_deploy_like_a_pro/). Read the blogpost for the underlying ideas for the scripts.
 
 ## Prerequisites
 Copy this script folder into an sxa-starter headstart based solution. See https://github.com/sitecorelabs/xmcloud-foundation-head for more information on the headstart. 
