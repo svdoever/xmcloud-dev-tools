@@ -1,5 +1,6 @@
-# A simple menu to do a WinMerge based comparison of parts of the current XM Cloud project 
-# against the headstart project provided by Sitecore used to scaffold an XM Cloud project. 
+# A simple menu to do a WinMerge-based comparison of parts of the current XM Cloud project 
+# against the headstart project provided by Sitecore used to scaffold an XM Cloud project.
+# It is assumed that the Sitecore headstart project is cloned from GitHub on your local machine.
 # Assumption: WinMerge in installed in the folder tools\WinMerge.
 # Extend depending on your project needs.
 # Author: Serge van den Oever [Macaw]
